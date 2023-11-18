@@ -85,13 +85,13 @@ git remote add origin gcrypt::https://github.com/flolu/encrypted
 
 You also need to specify which GnuPG keys can encrypt and decrypt this remote:
 
-```
+```bash
 git config remote.origin.gcrypt-participants "<key_fingerprint>"
 ```
 
 Lastly, you have to specify the GnuPG used for encryption
 
-```
+```bash
 git config --global user.signingkey "<key_fingerprint>"
 ```
 
