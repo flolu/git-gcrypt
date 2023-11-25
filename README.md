@@ -2,7 +2,7 @@
   <h1>Encrypt Git Repositories</h1>
   <p>Guide to using encrypted Git remotes with the help of git-remote-gcrypt</p>
   <a href="https://youtu.be/XdoTca3EQGU">
-    <img width="320px" height="180px" src="https://img.youtube.com/vi/XdoTca3EQGU/mqdefault.jpg" style="border-radius: 1rem;" />
+    <img width="320px" height="180px" src="https://i.ytimg.com/vi/XdoTca3EQGU/maxresdefault.jpg" style="border-radius: 1rem;" />
     <p>Watch the YouTube Tutorial</p>
   </a>
 </div>
